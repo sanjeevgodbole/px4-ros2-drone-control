@@ -273,16 +273,10 @@ When ready for real-world deployment, this system can be adapted to physical har
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Whether you're fixing bugs, adding features, or improving documentation, please feel free to submit pull requests.
 
 ## 📞 Support
 
-For questions, issues, or collaboration opportunities, please open an issue on GitHub or contact the project maintainer.
+For questions, issues, or collaboration opportunities, please contact godbole.sanjeev@gmail.com
